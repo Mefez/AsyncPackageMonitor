@@ -17,7 +17,7 @@ This project simulates a monitor and multiple devices that send signals to the m
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/Mefez/AsyncPackageMonitor.git
-   cd AsyncPackageMonitor```
+   cd AsyncPackageMonitor
 2. **Run the Devices**:
         Start the device applications, each in separate terminal windows or instances.
 
